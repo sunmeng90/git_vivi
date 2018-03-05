@@ -11,5 +11,9 @@ public class Demo {
 	public static void printGreeting(String name) {
 		System.out.println("Gretting "+ name);
 	}
+	
+	public static void pprint(String name) {
+		System.out.println("typo "+ name);
+	}
 
 }
