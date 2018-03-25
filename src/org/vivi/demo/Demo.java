@@ -10,5 +10,6 @@ public class Demo {
 	
 	public static void printGreeting(String name) {
 		System.out.println("Gretting "+ name);
+		System.out.println("latest commict");
 	}
 }
