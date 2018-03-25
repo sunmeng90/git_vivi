@@ -10,6 +10,17 @@ public class Demo {
 	
 	public static void printGreeting(String name) {
 		System.out.println("Gretting "+ name);
-	}
+		System.out.println("latest commict");
+		System.out.println("local");
+		System.out.println("Gretting "+ name);
+		System.out.println("second");
+		System.out.println("333333");
+		System.out.println("444444444");
+		System.out.println("555555");
+		System.out.println("6666");
+		System.out.println("777777");
+		System.out.println("8888");
+		System.out.println("999");
 
+	}
 }
